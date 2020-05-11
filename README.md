@@ -3,7 +3,7 @@ Aplicaciones descargables para Linux, Mac y Windows del proyecto H3lp Me desarro
 
 # Versión online
 
-La página de acceso a través del navegador a la aplicación es: [https://h3lp-me.web.app] o [https://h3lp-me.firebaseapp.com]
+La página de acceso a través del navegador a la aplicación es: https://h3lp-me.web.app o https://h3lp-me.firebaseapp.com
 
 # Manual de uso
 
