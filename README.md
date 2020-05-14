@@ -7,4 +7,4 @@ La página de acceso a través del navegador a la aplicación es: https://h3lp-m
 
 # Manual de uso
 
-El manual de uso se encuentra en el archivo pdf **Manual.pdf**, subido en este repositorio.
+El manual de uso se encuentra en el archivo pdf [**Manual.pdf**](Manual.pdf), subido en este repositorio.
